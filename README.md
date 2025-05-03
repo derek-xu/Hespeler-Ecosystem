@@ -1,7 +1,6 @@
 # An Ecosystem
 
-This is the first step of an idea of mine, an ecosystem where people's lives and thoughts can be connected
-
+Place where people can work together
 An Idea Board where jotting is easy.
 To run locally, 
 ```
